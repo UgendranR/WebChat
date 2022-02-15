@@ -3,14 +3,13 @@ import 'firebase/compat/auth';
 import 'firebase/compat/firestore';
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyC_QXkcm2fkRJyoSB32UB6oPsZYSTBLMRc",
-  authDomain: "webchat-25764.firebaseapp.com",
-  databaseURL: "https://webchat-25764-default-rtdb.firebaseio.com",
-  projectId: "webchat-25764",
-  storageBucket: "webchat-25764.appspot.com",
-  messagingSenderId: "265589335677",
-  appId: "1:265589335677:web:78358b0f9317aa7dd57314",
-  measurementId: "G-L6CN4KHLF7"
+  apiKey: "AIzaSyBH67bjuK2u2eXcC9Ef5RWxRjRb9v0jr4A",
+  authDomain: "webchat-ugee.firebaseapp.com",
+  projectId: "webchat-ugee",
+  storageBucket: "webchat-ugee.appspot.com",
+  messagingSenderId: "277888581906",
+  appId: "1:277888581906:web:5f6cb2bf91d981cab5f3cb",
+  measurementId: "G-LNGRSZYV3X"
 };
 
 const firebaseApp=firebase.initializeApp(firebaseConfig);
