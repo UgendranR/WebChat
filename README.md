@@ -10,3 +10,5 @@ The users can send and recieve messages from multiple users accross the platform
 --->Firebase Hosting<br>
 --->FireBase Authentication<br>
 --->Vercel<br>
+
+![Example screenshot](./Capture.jpg) 
